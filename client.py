@@ -1,7 +1,7 @@
 from google import genai
 
 # Create client once
-client = genai.Client(api_key="AIzaSyDXsDSYi6bm3Xlb3fUE1FqjMM7_bl0Y3SM")
+client = genai.Client(api_key="Your_API_Key")
 
 def aiProcess(command):
 
